@@ -1,0 +1,6 @@
+if SHIELD_PALMCHORDER
+
+config ZMK_KEYBOARD_NAME
+    default "PalmChorder"
+
+endif # SHIELD_PALMCHORDER
