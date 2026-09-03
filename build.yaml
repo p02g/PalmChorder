@@ -18,6 +18,7 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-board: [ "xiao_rp2040" ]
-include: 
-     - board: xiao_rp2040
+board: ["xiao_rp2040"]
+include:
+  - board: "xiao_rp2040"
+    shield: palmchorder
